@@ -26,5 +26,4 @@ def main():
 
     print("Au revoir")
 
-if name == "main":
     main()
